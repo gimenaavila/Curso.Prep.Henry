@@ -1,0 +1,57 @@
+
+
+
+h1{
+    color:darkslateblue;
+    text-align: center;
+     }
+  
+  h3{
+      text-align: center;
+  }
+  h4{
+      text-align: center;
+  }
+  .img{ 
+     width: 400px;
+     display: flex;
+     margin-right: auto;
+     margin-left: auto;
+  
+
+  }
+  #divClass{
+      text-align: center;
+  }
+      
+  #thirdDiv{
+    display: flex; 
+    flex-wrap: wrap; 
+    height: auto;
+      width: auto;
+      background-color:peru;
+      padding: 50px;
+      border: 2px solid black;
+      margin: 100px;
+      
+      
+  }
+  #spanId{
+      font-size: 18px;
+      margin: 50px;
+      text-align: center;
+  }
+  body{
+      
+
+      background-color: plum;
+          
+  }
+  
+   
+    
+  
+
+  
+
+  
